@@ -5,7 +5,7 @@
 
 body {
     font-family: sans-serif;
-    padding: 90px 20px 0;
+    padding: 85px 5px 0;
 }
 
 .header {
@@ -51,4 +51,25 @@ body {
 .nav-menu-link {
     padding: 8px 12px;
     border-radius: 4px;
+}
+
+.nav-menu-item {
+    padding: 35px 20px;
+}
+
+.sidebar {
+    width: 40%;
+    height: auto;
+    background-color: aquamarine;
+}
+
+.main {
+    background-color: blue;
+    display: flex;
+    width: 98%;
+    
+}
+
+.principal {
+    width: 50&;
 }
