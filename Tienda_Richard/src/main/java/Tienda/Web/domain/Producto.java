@@ -1,5 +1,6 @@
 package Tienda.Web.domain;
 
+
 import jakarta.persistence.*;
 import java.io.Serializable;
 import lombok.Data;
@@ -14,7 +15,6 @@ public class Producto implements Serializable {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="id_producto")
     private Long idProducto;
-    //private Long idCategoria;  ya no se usa por el @manyToOne
     private String descripcion;
     private String detalle;
     private double precio;
