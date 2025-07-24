@@ -7,3 +7,4 @@ public interface RolDao extends JpaRepository<Rol, Long> {
 
 }
  
+

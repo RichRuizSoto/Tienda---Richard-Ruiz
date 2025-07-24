@@ -21,6 +21,6 @@ public class TiendaRichardApplication {
 
 /* 
 UPDATE usuario
-SET password = '$2a$10$vNfk98AjyTS25K56xBQgj.4jcB6BmFoPyoMp78G2cojqpciPTYAtK'
-WHERE username = 'rebeca';
+SET password = '$2a$10$r1L2SjjuVmrf.j3sqpxQDOCzrvH6L/EIT0a1SeutmCq0N54UjWe0O'
+WHERE username = 'pedro';
 */
